@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multiple deprivation | Eqi Luo</title>
+    <link>https://EqiLuo.github.io/tag/multiple-deprivation/</link>
+      <atom:link href="https://EqiLuo.github.io/tag/multiple-deprivation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multiple deprivation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://EqiLuo.github.io/media/icon_hu4b777761ed216b4eb51a04113f1ed577_35491_512x512_fill_lanczos_center_3.png</url>
+      <title>Multiple deprivation</title>
+      <link>https://EqiLuo.github.io/tag/multiple-deprivation/</link>
+    </image>
+    
+    <item>
+      <title>MSc Research - Mapping and predicting the urban deprivation degrees from RS images</title>
+      <link>https://EqiLuo.github.io/project/02_msc_research/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://EqiLuo.github.io/project/02_msc_research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The IDEAMAPS Project</title>
+      <link>https://EqiLuo.github.io/project/01_ideamaps/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://EqiLuo.github.io/project/01_ideamaps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The SLUMAP Project</title>
+      <link>https://EqiLuo.github.io/project/03_slumap/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://EqiLuo.github.io/project/03_slumap/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
